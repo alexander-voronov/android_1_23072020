@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">A1L1</string>
+    <string name="city_moscow">City: Moscow</string>
+    <string name="_27_07_2020_sunny_65_f">27/07/2020 Sunny 65°F</string>
 </resources>
