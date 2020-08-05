@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">A1L1</string>
-    <string name="city_moscow">City: Moscow</string>
-    <string name="_27_07_2020_sunny_65_f">27/07/2020 Sunny 65°F</string>
+    <string name="city">City: Moscow</string>
+    <string name="temperature">27/07/2020 Sunny 65°F</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="city_selection">CheckedTextView</string>
+    <string name="insert">Insert City</string>
+    <string name="city_moscow" />
+    <string name="_27_07_2020_sunny_65_f" />
+    <string name="parameters">parameters</string>
 </resources>

@@ -24,7 +24,7 @@
             android:layout_gravity="center_vertical"
             android:text="@string/city_moscow"
             android:textColor="@color/colorAccent"
-            android:textSize="30dp"
+            android:textSize="30sp"
             android:textStyle="italic" />
 
     </com.google.android.material.navigation.NavigationView>
@@ -44,7 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="133dp"
             android:text="@string/_27_07_2020_sunny_65_f"
-            android:textSize="25dp" />
+            android:textSize="25sp" />
     </FrameLayout>
 
     <ImageView
@@ -52,7 +52,6 @@
         android:layout_width="162dp"
         android:layout_height="128dp"
         android:layout_marginBottom="36dp"
-        android:contentDescription="TODO"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
